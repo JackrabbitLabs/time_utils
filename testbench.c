@@ -21,7 +21,7 @@
  */
 #include <time.h>
 
-#include "timeutils.h"
+#include "main.h"
 
 /* MACROS ====================================================================*/
 
